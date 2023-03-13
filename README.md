@@ -3,7 +3,7 @@
 
 <ul>
   <li>
-  🎓 Currently learning CSS and HTML on Udemy
+  🎓 Currently learning CSS and HTML 
   </li>
   <li>
    🎯 Next step: JavaScript
