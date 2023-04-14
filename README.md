@@ -1,14 +1,5 @@
 <h1 align="center">Hello, world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1> 
 <!-- <h1 align="center">Hi 👾, I'm Daniele</h1> -->
-
-<ul>
-  <li>
-  🎓 Currently learning JavaScript
-  </li>
-  <li>
-  🎯 Next step: Advanced CSS and Sass
-  </li>
- </ul>
   
   <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
   
@@ -20,6 +11,15 @@ object **DANIELE ZENI** {
 
 }
 ```
+
+<ul>
+  <li>
+  🎓 Currently learning JavaScript
+  </li>
+  <li>
+  🎯 Next step: Advanced CSS and Sass
+  </li>
+ </ul>
   
   
  ### Here is my certificates:
