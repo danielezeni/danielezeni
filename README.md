@@ -3,10 +3,15 @@
 
 <ul>
   <li>
-  🎓 Currently learning CSS and HTML 
+  🎓 Currently learning JavaScript
   </li>
   <li>
-   🎯 Next step: JavaScript
+  🎯 Next step: Advanced CSS and Sass
   </li>
   </ul>
+  
+  ##Here is my certificates:
+   https://www.udemy.com/certificate/UC-a7035649-d87e-42f1-8f77-d744574e04b0/
+  
+  
  
