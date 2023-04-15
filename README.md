@@ -30,7 +30,7 @@
  </ul>
   
   
- ### Here is my certificates:
+ ## **Here is my certificates**
   <ul>
    <li> 
      <p>HTML and CSS course from Udemy:</p>
